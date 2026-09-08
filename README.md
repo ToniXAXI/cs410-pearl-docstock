@@ -83,6 +83,10 @@ Major functional components:
 
 DocStock is a scheduling and reminder tool. It does not provide medical advice and is not a substitute for guidance from a licensed healthcare professional. Always verify medication instructions with your doctor or pharmacist.
 
+## Project Outline
+
+For a more detailed overview of the DocStock project, see our [Project Outline] https://docs.google.com/document/d/15uRUdqFN8R9gOA4ytGR7pW3SjBqBKH0qk9f1j0CzA1I/edit?tab=t.0.
+
 ## References
 
 1. Centers for Disease Control and Prevention, "CDC Grand Rounds: Improving medication adherence for chronic disease management — Innovations and opportunities," *MMWR*, vol. 66, no. 45, pp. 1248–1251, Nov. 2017.
