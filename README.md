@@ -85,7 +85,7 @@ DocStock is a scheduling and reminder tool. It does not provide medical advice a
 
 ## Project Outline
 
-For a more detailed overview of the DocStock project, see our [Project Outline] https://docs.google.com/document/d/15uRUdqFN8R9gOA4ytGR7pW3SjBqBKH0qk9f1j0CzA1I/edit?tab=t.0.
+For a more detailed overview of the DocStock project, see our **Project Outline** https://docs.google.com/document/d/15uRUdqFN8R9gOA4ytGR7pW3SjBqBKH0qk9f1j0CzA1I/edit?tab=t.0.
 
 ## References
 
