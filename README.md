@@ -78,6 +78,7 @@ Major functional components:
 - Jessica Fischer
 - Ab Aljazaeri
 - Matthew Richards
+- Toni Sallaku
 
 ## Disclaimer
 
